@@ -1,4 +1,10 @@
 # eCryptfs
-作者：邢万里
-学校：重庆邮电大学
-内容：关于eCryptfs的剖析和其他想法。
+Name:
+Wanli Xing
+
+University(undergraduate): 
+Chongqing University of Posts and Telecommunications
+
+Contents: 
+1. To Fully Understand details About Why eCryptfs developed and How eCryptfs works.
+2, My Thinking in eCryptfs and Other Implementations on eCryptfs.
