@@ -1,0 +1,1 @@
+ecryptfs_2_6_24+hmac_patch文件夹中是MH开发的hmac补丁和2.6.24内核版本的eCryptfs源码。其中有大量英文注解，方便阅读。
