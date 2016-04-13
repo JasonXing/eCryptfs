@@ -13,6 +13,6 @@ Chongqing University of Posts and Telecommunications
 
 Contents: 
 
-1. To Fully Understand Details about Why eCryptfs Is Developed and How eCryptfs Works.
+1. To Fully Understand about Why eCryptfs Is Developed and How eCryptfs Works.
 
 2. My Thinking and Other Implementations on eCryptfs.
